@@ -1,5 +1,7 @@
 
-
+.col-lg-6{
+  position: center;
+}
 
 body {
     font-family: "Open Sans", sans-serif;
@@ -528,7 +530,7 @@ body {
     padding: 0 0 20px 20px;
     margin-top: -2px;
     border-left: 2px solid #0563bb;
-    position: relative;
+    position: relative                        ;
   }
   
   .resume .resume-item h4 {
